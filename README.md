@@ -20,6 +20,13 @@ Aplikasi ini memiliki 3 sistem unit pengukuran, yaitu:
 Input data: Jenis Kelamin, Tinggi Badan, Berat Badan, dan Umur.
 Aplikasi Kalkulator BMR ini menggunakan Mifflin–St Jeor Equation untuk menghitung kebutuhan kalori dasar tubuh secara akurat. Fitur-fiturnya mencakup konversi otomatis antar sistem satuan, penentuan tingkat aktivitas dan kebutuhan kalori harian, serta interpretasi hasil BMR agar pengguna dapat memahami arti dari nilai yang diperoleh. Antarmuka dirancang dengan tampilan modern bertema gelap (Dark Theme) dan telah mendukung penggunaan satuan internasional (International Units) untuk kenyamanan pengguna dari berbagai wilayah.
 
+## Screenshot Aplikasi 
+![US Units](https://raw.githubusercontent.com/niscode55/BMR_404274_PPB/main/404274_BMR_PPB/images/US%20Units.jpeg)
+![Metric Units](https://raw.githubusercontent.com/niscode55/BMR_404274_PPB/main/404274_BMR_PPB/images/Metric%20Units.jpeg)
+![Other Units](https://raw.githubusercontent.com/niscode55/BMR_404274_PPB/main/404274_BMR_PPB/images/Other%20Units.jpeg)
+![Result Part 1](https://raw.githubusercontent.com/niscode55/BMR_404274_PPB/main/404274_BMR_PPB/images/Result%20part%201.jpeg)
+![US Units](https://raw.githubusercontent.com/niscode55/BMR_404274_PPB/main/404274_BMR_PPB/images/US%20Units.jpeg)
+
 Cara Menjalankan
 1. Clone repository ini
 bash
